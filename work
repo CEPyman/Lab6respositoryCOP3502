@@ -14,3 +14,9 @@ method_2b = int(input('What is your second number'))
 
 print(f'The added result is {method_2a + method_2b})
 
+print('Now I'm going to get two numbers from you and subtract them')
+
+sub_1 = int(input('The first number to subtract from')
+sub_2 = int(input('How much are you subtracting'))
+
+print(f'This is what you get: {sub_1 - sub_2}')
