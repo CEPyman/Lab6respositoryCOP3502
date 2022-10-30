@@ -1,1 +1,16 @@
 print('This is going to add two numbers in two different methods')
+
+# First Method
+
+a = 2 + 2
+
+print(a)
+
+# Second Method
+
+method_2a = int(input('What is your first number'))
+
+method_2b = int(input('What is your second number'))
+
+print(f'The added result is {method_2a + method_2b})
+
